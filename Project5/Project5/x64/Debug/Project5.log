@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\gilya\source\repos\Project5\Project5\main.c(67,29): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Project5.vcxproj -> C:\Users\gilya\source\repos\Project5\x64\Debug\Project5.exe

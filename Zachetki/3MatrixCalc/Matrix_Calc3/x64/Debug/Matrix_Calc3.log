@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\gilya\OneDrive\Рабочий стол\Зачетные по инфе 1 семестр\Matrix_Calc3\Matrix_Calc3\main.c(33,7): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "void *"
+  Matrix_Calc3.vcxproj -> C:\Users\gilya\OneDrive\Рабочий стол\Зачетные по инфе 1 семестр\Matrix_Calc3\x64\Debug\Matrix_Calc3.exe

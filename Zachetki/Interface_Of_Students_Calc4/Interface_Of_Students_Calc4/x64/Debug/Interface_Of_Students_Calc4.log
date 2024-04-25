@@ -1,0 +1,7 @@
+﻿  func.c
+C:\Users\gilya\OneDrive\Рабочий стол\Зачетные по инфе 1 семестр\Interface_Of_Students_Calc4\Interface_Of_Students_Calc4\func.c(182,13): warning C4047: =: "tm *" отличается по уровням косвенного обращения от "time_t"
+C:\Users\gilya\OneDrive\Рабочий стол\Зачетные по инфе 1 семестр\Interface_Of_Students_Calc4\Interface_Of_Students_Calc4\func.c(180,13): warning C4047: инициализация: "tm *" отличается по уровням косвенного обращения от "time_t"
+  main.c
+  mainFunc.c
+  Создание кода...
+  Interface_Of_Students_Calc4.vcxproj -> C:\Users\gilya\OneDrive\Рабочий стол\Зачетные по инфе 1 семестр\Interface_Of_Students_Calc4\x64\Debug\Interface_Of_Students_Calc4.exe
